@@ -10,7 +10,7 @@ bumbacat.json
 
 pnpm start --character="characters/bumbacat.json"
 
-Solana Transaction: When you get bumbcat agent to say "vibes"
+Solana Transaction: When you get bumbcat agent to say "vibes" 100 BUMBA tokens are deposited into recipient address
 
 To load custom characters instead:
 - Use `pnpm start --characters="path/to/your/character.json"`
