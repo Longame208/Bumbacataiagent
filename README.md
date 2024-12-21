@@ -6,6 +6,12 @@ Open `agent/src/character.ts` to modify the default character. Uncomment and edi
 
 ### Custom characters
 
+bumbacat.json
+
+pnpm start --character="characters/bumbacat.json"
+
+Solana Transaction: When you get bumbcat agent to say "vibes"
+
 To load custom characters instead:
 - Use `pnpm start --characters="path/to/your/character.json"`
 - Multiple character files can be loaded simultaneously
