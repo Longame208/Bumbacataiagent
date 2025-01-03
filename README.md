@@ -12,6 +12,8 @@ pnpm start --character="characters/bumbacat.json"
 
 Solana Transaction: When you get bumbcat agent to say "vibes" 100 BUMBA tokens are deposited into recipient address
 
+## Currently Solana transaction only works through terminal
+
 To load custom characters instead:
 - Use `pnpm start --characters="path/to/your/character.json"`
 - Multiple character files can be loaded simultaneously
